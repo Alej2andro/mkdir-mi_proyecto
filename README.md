@@ -1,8 +1,8 @@
-# 📊 Análisis de Ventas en Python
+### 📊 Análisis de Ventas en Python
 
 Este proyecto realiza un análisis básico de ventas utilizando estructuras de datos en Python. A partir de una lista de transacciones, se calcula información clave como ingresos totales, productos más vendidos y precios promedio, y se genera un resumen exportable en formatos `.txt` y `.csv`.
 
-## 📁 Estructura del Script
+#### 📁 Estructura del Script
 
 El archivo principal contiene las siguientes secciones:
 
@@ -32,13 +32,12 @@ El archivo principal contiene las siguientes secciones:
    - `resumen_ventas.txt`: resumen legible en texto plano  
    - `resumen_ventas.csv`: archivo estructurado para análisis externo
 
-## 📦 Requisitos
+#### 📦 bibliotecas
 
-Este script utiliza únicamente bibliotecas estándar de Python, excepto `numpy`, que se importa pero no se utiliza directamente en esta versión.
+Este script utiliza únicamente bibliotecas estándar de Python.
 
 
 🧠 Autor
 Ale2jandro
 
-```bash
-pip install numpy
+
